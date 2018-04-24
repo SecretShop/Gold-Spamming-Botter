@@ -1,13 +1,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 <Layouts><Layout layout_name="DnDWorkspace" layout_guid="1a661a62-8a13-4311-92f8-31ca5c9dbb17" toolbox_size="21.65795%" toolbox_anchor="Last" story_size="150px"><Workspace zoom="1" pan="[-81.33362, -32]" /><Node left="165.1664" top="-18.5" width="232" height="155" hash="4140E3C6" /><Node left="165.1664" top="146.5" width="232" height="155" hash="2E5197EE" /><Node left="59.16638" top="311.5" width="563" height="432" hash="2ED3C3A7" /><Node left="165.1664" top="753.5" width="232" height="155" hash="58F84B34" /><Node left="165.1664" top="918.5" width="232" height="95" hash="138D9ACA" /><Node left="281.1664" top="1023.5" width="232" height="95" hash="438AD4CC" /><Node left="281.1664" top="1128.5" width="232" height="95" hash="014CA87E" /></Layout></Layouts>
 =======
 <Layouts><Layout layout_name="DnDWorkspace" layout_guid="555ab9a9-c8f2-4036-a590-403f2fe6cad4" toolbox_size="25%" toolbox_anchor="Last" story_size="150px"><Workspace zoom="0.92" pan="[-301.7259, -60.51843]" /><Node left="-380" top="0" width="760" height="465" hash="2ED3C3A7" /></Layout></Layouts>
 >>>>>>> 637b18fd90d0446fd000e8cb0e49758364a1cf7d
-=======
-<Layouts><Layout layout_name="DnDWorkspace" layout_guid="cbe22c7a-167b-40b7-abd5-ab7489f22de8" toolbox_size="25%" toolbox_anchor="Last" story_size="150px"><Workspace zoom="1" pan="[-15, 305]" /><Node left="165.1664" top="-18.5" width="232" height="155" hash="4140E3C6" /><Node left="165.1664" top="146.5" width="232" height="155" hash="2E5197EE" /><Node left="59.16638" top="311.5" width="563" height="432" hash="2ED3C3A7" /><Node left="165.1664" top="753.5" width="232" height="155" hash="58F84B34" /><Node left="165.1664" top="918.5" width="232" height="95" hash="138D9ACA" /><Node left="281.1664" top="1023.5" width="232" height="95" hash="438AD4CC" /><Node left="281.1664" top="1128.5" width="232" height="95" hash="014CA87E" /></Layout></Layouts>
->>>>>>> parent of b943142... Windows basics
 =======
 <Layouts><Layout layout_name="DnDWorkspace" layout_guid="cbe22c7a-167b-40b7-abd5-ab7489f22de8" toolbox_size="25%" toolbox_anchor="Last" story_size="150px"><Workspace zoom="1" pan="[-15, 305]" /><Node left="165.1664" top="-18.5" width="232" height="155" hash="4140E3C6" /><Node left="165.1664" top="146.5" width="232" height="155" hash="2E5197EE" /><Node left="59.16638" top="311.5" width="563" height="432" hash="2ED3C3A7" /><Node left="165.1664" top="753.5" width="232" height="155" hash="58F84B34" /><Node left="165.1664" top="918.5" width="232" height="95" hash="138D9ACA" /><Node left="281.1664" top="1023.5" width="232" height="95" hash="438AD4CC" /><Node left="281.1664" top="1128.5" width="232" height="95" hash="014CA87E" /></Layout></Layouts>
 >>>>>>> parent of b943142... Windows basics
