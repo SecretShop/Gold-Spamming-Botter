@@ -4,8 +4,8 @@
 /// @DnDArgument : "x" "100"
 /// @DnDArgument : "y" "650"
 /// @DnDArgument : "caption" ""Assholes: ""
-/// @DnDArgument : "var" ""Hey asshole""
-draw_text(100, 650, string("Assholes: ") + string("Hey asshole"));
+/// @DnDArgument : "var" ""ur gay""
+draw_text(100, 650, string("Assholes: ") + string("ur gay"));
 
 /// @DnDAction : YoYo Games.Drawing.Draw_Value
 /// @DnDVersion : 1
