@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "6e5113cc-6e76-46cc-9e79-190a428ef76a",
+            "Value": {
+                "id": "714aed84-c717-4e51-88d7-84033b1cacb3",
+                "resourcePath": "objects\\OS_Game\\OS_Game.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "886ad13f-1adf-40d1-8be6-88da417c1321",
             "Value": {
                 "id": "ba3428ae-27fb-4ac7-9e16-b245b8f51acc",
