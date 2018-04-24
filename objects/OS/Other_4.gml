@@ -3,6 +3,7 @@
 /// @DnDHash : 5C69944B
 /// @DnDArgument : "var" "log"
 <<<<<<< HEAD
+<<<<<<< HEAD
 log = ds_list_create();
 
 /// @DnDAction : YoYo Games.Common.Set_Global
@@ -19,3 +20,6 @@ global.log = 0;
 /// @DnDArgument : "var" "global.log"
 global.log = ds_list_create();
 >>>>>>> 637b18fd90d0446fd000e8cb0e49758364a1cf7d
+=======
+log = ds_list_create();
+>>>>>>> parent of b943142... Windows basics
