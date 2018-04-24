@@ -12,9 +12,9 @@ draw_text(100, 650, string("Assholes: ") + string("ur gay"));
 /// @DnDHash : 2E5197EE
 /// @DnDArgument : "x" "100"
 /// @DnDArgument : "y" "700"
-/// @DnDArgument : "caption" ""OS_log length: ""
+/// @DnDArgument : "caption" ""Log length: ""
 /// @DnDArgument : "var" "ds_list_size(log)"
-draw_text(100, 700, string("OS_log length: ") + string(ds_list_size(log)));
+draw_text(100, 700, string("Log length: ") + string(ds_list_size(log)));
 
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
