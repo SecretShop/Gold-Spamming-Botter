@@ -13,17 +13,17 @@ draw_text(100, 650, string("Assholes: ") + string("ur gay"));
 /// @DnDArgument : "x" "100"
 /// @DnDArgument : "y" "700"
 /// @DnDArgument : "caption" ""OS_log length: ""
-/// @DnDArgument : "var" "ds_list_size(os_log)"
-draw_text(100, 700, string("OS_log length: ") + string(ds_list_size(os_log)));
+/// @DnDArgument : "var" "ds_list_size(log)"
+draw_text(100, 700, string("OS_log length: ") + string(ds_list_size(log)));
 
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 2ED3C3A7
-/// @DnDArgument : "code" "var k=0;$(13_10)for (var i=ds_list_size(os_log); i>0; i--;){$(13_10)	if (ds_list_size(os_log)!=0) {$(13_10)		draw_text(200,180-(20*k),os_log[| i-1])$(13_10)		k++;$(13_10)	}$(13_10)}$(13_10)$(13_10)"
+/// @DnDArgument : "code" "var k=0;$(13_10)for (var i=ds_list_size(log); i>0; i--;){$(13_10)	if (ds_list_size(log)!=0) {$(13_10)		draw_text(200,180-(20*k),log[| i-1])$(13_10)		k++;$(13_10)	}$(13_10)}"
 var k=0;
-for (var i=ds_list_size(os_log); i>0; i--;){
-	if (ds_list_size(os_log)!=0) {
-		draw_text(200,180-(20*k),os_log[| i-1])
+for (var i=ds_list_size(log); i>0; i--;){
+	if (ds_list_size(log)!=0) {
+		draw_text(200,180-(20*k),log[| i-1])
 		k++;
 	}
 }
@@ -49,9 +49,9 @@ if (l138D9ACA_0)
 	/// @DnDVersion : 1
 	/// @DnDHash : 438AD4CC
 	/// @DnDParent : 138D9ACA
-	/// @DnDArgument : "var" "os_log"
+	/// @DnDArgument : "var" "log"
 	/// @DnDArgument : "value" "keyboard_string"
-	ds_list_add(os_log, keyboard_string);
+	ds_list_add(log, keyboard_string);
 
 	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1
