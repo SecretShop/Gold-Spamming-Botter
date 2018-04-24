@@ -2,6 +2,15 @@
 /// @DnDVersion : 1
 /// @DnDHash : 4140E3C6
 /// @DnDArgument : "x" "100"
+/// @DnDArgument : "y" "650"
+/// @DnDArgument : "caption" ""Assholes: ""
+/// @DnDArgument : "var" ""Hey asshole""
+draw_text(100, 650, string("Assholes: ") + string("Hey asshole"));
+
+/// @DnDAction : YoYo Games.Drawing.Draw_Value
+/// @DnDVersion : 1
+/// @DnDHash : 2E5197EE
+/// @DnDArgument : "x" "100"
 /// @DnDArgument : "y" "700"
 /// @DnDArgument : "caption" ""OS_log length: ""
 /// @DnDArgument : "var" "ds_list_size(os_log)"
