@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "0bbf7aff-58a8-4658-89fc-d5d1a5a1c887",
+            "Value": {
+                "id": "6b0a4b4e-4768-4232-8a86-905d261cd2f7",
+                "resourcePath": "sprites\\spr_minimize\\spr_minimize.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "12da9b65-b0be-4149-8ba1-3c5e76b26d75",
             "Value": {
                 "id": "84e32ce4-dac8-4d32-b651-0002230527bb",
@@ -84,6 +92,14 @@
                 "id": "635129a1-7339-4c6c-bc01-53a57def1cdf",
                 "resourcePath": "sprites\\spr_exit\\spr_exit.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "2860f4f2-4db4-4d58-b79f-c053b8ad5827",
+            "Value": {
+                "id": "4d8e5f8e-0bea-4483-9ee8-9e8b83e265cf",
+                "resourcePath": "objects\\obj_taskbar_tab\\obj_taskbar_tab.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -159,10 +175,18 @@
             }
         },
         {
+            "Key": "8e6b5d47-5df3-46a6-9dc1-58fdc8034b95",
+            "Value": {
+                "id": "b75d0aa7-a154-47dd-8671-fa48c1c53012",
+                "resourcePath": "objects\\obj_window_button\\obj_window_button.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9d7e2d8f-30f9-4f8e-860c-16b2870acb20",
             "Value": {
                 "id": "983c13cf-bb2c-457d-a4c0-688f6bd08a88",
-                "resourcePath": "objects\\obj_exit\\obj_exit.yy",
+                "resourcePath": "objects\\obj_window_exit\\obj_window_exit.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -180,6 +204,14 @@
                 "id": "8ee3f2ed-4b89-4526-971b-28be148c8147",
                 "resourcePath": "views\\a2785eaf-a2d6-4136-b431-3161a6f03e5d.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a29bc351-327b-4594-9325-8ba2aee44a06",
+            "Value": {
+                "id": "e51e3b94-98b2-465c-9545-f311754c40d1",
+                "resourcePath": "sprites\\spr_taskbar_tab\\spr_taskbar_tab.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -212,6 +244,22 @@
                 "id": "cc31f8a5-53ee-44a1-afdc-a04c9acecc98",
                 "resourcePath": "views\\b7fde5a2-e850-44a6-8bbf-349cb9acb523.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b8085d8d-878b-4a6e-80d7-fbc78ba29ce6",
+            "Value": {
+                "id": "b23739a8-c758-4ade-bc1f-74a908273bf4",
+                "resourcePath": "objects\\obj_hover\\obj_hover.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "bd756644-d31a-4678-b3e7-3314ab8b58a1",
+            "Value": {
+                "id": "8b18aaae-f4f9-4d65-91b8-c0148aac338d",
+                "resourcePath": "objects\\obj_window_min\\obj_window_min.yy",
+                "resourceType": "GMObject"
             }
         },
         {
