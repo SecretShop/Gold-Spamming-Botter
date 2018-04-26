@@ -89,6 +89,20 @@
             "value": "0",
             "varName": "textCheck",
             "varType": 6
+        },
+        {
+            "id": "df3078b4-5187-4c98-9e9c-0e7e6dd695b2",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "LogOpen",
+            "varType": 3
         }
     ],
     "solid": false,
