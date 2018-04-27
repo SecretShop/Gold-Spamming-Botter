@@ -2,7 +2,7 @@
     "id": "79876dcf-c951-474a-b41f-2b00583616cd",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_window_grab",
+    "name": "obj_window_resize",
     "eventList": [
         {
             "id": "960bfbdd-5420-4b47-9ef9-571fdfb1970a",
@@ -159,6 +159,20 @@
             "value": "0",
             "varName": "yy",
             "varType": 0
+        },
+        {
+            "id": "a5d71027-bb01-4d0f-8e01-466ee42212f8",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "moving",
+            "varType": 3
         }
     ],
     "solid": false,

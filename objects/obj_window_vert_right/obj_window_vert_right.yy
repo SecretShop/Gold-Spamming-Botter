@@ -53,7 +53,7 @@
             "rangeMin": 0,
             "resourceFilter": 1023,
             "value": "0",
-            "varName": "MyGrab",
+            "varName": "MyResize",
             "varType": 0
         }
     ],

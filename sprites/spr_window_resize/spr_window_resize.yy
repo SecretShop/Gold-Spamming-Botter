@@ -2,7 +2,7 @@
     "id": "ef89a445-9ca3-4004-95be-4c6bf34f9fec",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_window_grab",
+    "name": "spr_window_resize",
     "For3D": false,
     "HTile": false,
     "VTile": false,
