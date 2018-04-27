@@ -55,6 +55,34 @@
             "value": "0",
             "varName": "MyResize",
             "varType": 0
+        },
+        {
+            "id": "14f65781-e5ec-49b8-8b93-e2046161e20d",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "xx",
+            "varType": 0
+        },
+        {
+            "id": "014fa8a5-2d29-4d05-914a-6c3bb1662270",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "yy",
+            "varType": 0
         }
     ],
     "solid": false,

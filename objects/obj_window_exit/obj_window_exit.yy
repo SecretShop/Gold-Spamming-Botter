@@ -23,11 +23,21 @@
             "enumb": 7,
             "eventtype": 6,
             "m_owner": "9d7e2d8f-30f9-4f8e-860c-16b2870acb20"
+        },
+        {
+            "id": "fa585d74-05cc-47eb-88fc-e4fc5420feed",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "9d7e2d8f-30f9-4f8e-860c-16b2870acb20"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "8e6b5d47-5df3-46a6-9dc1-58fdc8034b95",
+    "parentObjectId": "b8085d8d-878b-4a6e-80d7-fbc78ba29ce6",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -43,6 +53,20 @@
     "physicsStartAwake": true,
     "properties": [
         {
+            "id": "0ef6a491-0e88-4d0a-a664-cc1f74a69e36",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "MyResize",
+            "varType": 0
+        },
+        {
             "id": "ca2a4c32-0bf5-4dbe-8cc0-b79b06c2f98c",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
@@ -54,6 +78,34 @@
             "resourceFilter": 1023,
             "value": "0",
             "varName": "MyMinimize",
+            "varType": 0
+        },
+        {
+            "id": "bfd2f5ac-9b6b-4e33-b2c7-738d1b96a768",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "xx",
+            "varType": 0
+        },
+        {
+            "id": "1ef814e5-08a6-4ba2-849e-db26e1e02f6b",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "yy",
             "varType": 0
         }
     ],
