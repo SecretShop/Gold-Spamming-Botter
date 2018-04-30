@@ -43,7 +43,7 @@
     "physicsStartAwake": true,
     "properties": [
         {
-            "id": "18975081-0603-401e-ba09-06a47b1daea2",
+            "id": "f52517ba-03ce-46bc-9ced-47f44f0a438a",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -53,11 +53,11 @@
             "rangeMin": 0,
             "resourceFilter": 1023,
             "value": "0",
-            "varName": "MyWin",
+            "varName": "MyResize",
             "varType": 0
         },
         {
-            "id": "e2325f45-c808-41b0-91bd-41b83a567d31",
+            "id": "9f410960-9498-409c-929d-07206cc0599b",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -67,22 +67,8 @@
             "rangeMin": 0,
             "resourceFilter": 1023,
             "value": "0",
-            "varName": "LastX",
-            "varType": 0
-        },
-        {
-            "id": "3be4c9ee-fffc-4996-91f7-2db8bf8d56a9",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "0",
-            "varName": "LastY",
-            "varType": 0
+            "varName": "Minimized",
+            "varType": 3
         }
     ],
     "solid": false,
