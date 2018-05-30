@@ -73,6 +73,20 @@
     "physicsStartAwake": true,
     "properties": [
         {
+            "id": "d0323b15-b7de-4032-b869-a0053ca64d7e",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "MyProg",
+            "varType": 0
+        },
+        {
             "id": "a7f7fe46-6fcf-4757-b148-dbed4da749f5",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
@@ -183,6 +197,34 @@
             "value": "0",
             "varName": "moving",
             "varType": 3
+        },
+        {
+            "id": "c6cf564b-1475-4fba-ac5a-ff0a1de9e776",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "LogLines",
+            "varType": 0
+        },
+        {
+            "id": "2cb37afe-6f71-4cb9-92ea-84d4b1107030",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "MyWinNum",
+            "varType": 0
         }
     ],
     "solid": false,

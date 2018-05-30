@@ -77,7 +77,7 @@
             "rangeMin": 0,
             "resourceFilter": 1023,
             "value": "123",
-            "varName": "MyProg",
+            "varName": "MyWin",
             "varType": 0
         }
     ],

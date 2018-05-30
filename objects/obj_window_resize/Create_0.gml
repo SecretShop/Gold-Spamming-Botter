@@ -11,5 +11,9 @@ MyExit = instance_create_depth(x,y-128,-2,obj_window_exit);
 MyExit.MyResize = id;
 MyMinimize = instance_create_depth(x-16,y-128,-2,obj_window_min);
 MyMinimize.MyResize = id;
-MyTab = instance_create_depth(64,room_height-32,-1,obj_taskbar_tab);
+MyTab = instance_create_depth(64,room_height-48,-1,obj_taskbar_tab);
 MyTab.MyResize = id;
+
+//Initial values
+LogLines = round((y - MyHorizTop.y-16)/20);
+

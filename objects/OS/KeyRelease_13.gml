@@ -1,5 +1,5 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @description check input of keyboard
+
 ds_list_add(global.log,keyboard_string);	
 keyboard_string = "";
 

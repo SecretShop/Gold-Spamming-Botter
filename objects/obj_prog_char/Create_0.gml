@@ -1,0 +1,1 @@
+sprIndex = id.sprite_index;

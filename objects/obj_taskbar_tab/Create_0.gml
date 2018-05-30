@@ -1,1 +1,1 @@
-sprIndex = id.sprite_index;
+//sprIndex = id.sprite_index;
