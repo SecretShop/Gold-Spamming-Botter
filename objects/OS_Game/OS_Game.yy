@@ -1,28 +1,28 @@
 {
-    "id": "6e5113cc-6e76-46cc-9e79-190a428ef76a",
+    "id": "b3e33f96-1001-4f0a-b12a-3625cdea5e67",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "OS_Game",
     "eventList": [
         {
-            "id": "3757746e-e2de-4e6d-a000-0cabe5cefb00",
+            "id": "f82d93e7-ff7c-4ea7-99c8-7b947771a1b8",
             "modelName": "GMEvent",
             "mvc": "1.0",
-            "IsDnD": true,
+            "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "6e5113cc-6e76-46cc-9e79-190a428ef76a"
+            "m_owner": "b3e33f96-1001-4f0a-b12a-3625cdea5e67"
         },
         {
-            "id": "92563064-dcf4-41a6-b247-47af27e6fc6f",
+            "id": "98282a34-5fdf-49eb-97c5-6b194056ebf8",
             "modelName": "GMEvent",
             "mvc": "1.0",
-            "IsDnD": true,
+            "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 13,
             "eventtype": 10,
-            "m_owner": "6e5113cc-6e76-46cc-9e79-190a428ef76a"
+            "m_owner": "b3e33f96-1001-4f0a-b12a-3625cdea5e67"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -44,5 +44,5 @@
     "properties": null,
     "solid": false,
     "spriteId": "00000000-0000-0000-0000-000000000000",
-    "visible": false
+    "visible": true
 }

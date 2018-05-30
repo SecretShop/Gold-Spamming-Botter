@@ -1,7 +1,3 @@
-/// @DnDAction : YoYo Games.Common.Execute_Code
-/// @DnDVersion : 1
-/// @DnDHash : 707E4E81
-/// @DnDArgument : "code" "grabbed = true;$(13_10)MyResize.moving=true;$(13_10)xx = mouse_x-x;$(13_10)yy = mouse_y-y;$(13_10)//Send your point to the resize$(13_10)MyResize.xx = mouse_x-MyResize.x;$(13_10)MyResize.yy = mouse_y-MyResize.y;$(13_10)MyResize.MyHorizBot.xx = mouse_x-MyResize.MyHorizBot.x;$(13_10)MyResize.MyHorizBot.yy = mouse_y-MyResize.MyHorizBot.y;$(13_10)MyResize.MyVertLeft.xx = mouse_x-MyResize.MyVertLeft.x;$(13_10)MyResize.MyVertLeft.yy = mouse_y-MyResize.MyVertLeft.y;$(13_10)MyResize.MyVertRight.xx = mouse_x-MyResize.MyVertRight.x;$(13_10)MyResize.MyVertRight.yy = mouse_y-MyResize.MyVertRight.y;$(13_10)MyResize.MyExit.xx = mouse_x-MyResize.MyExit.x;$(13_10)MyResize.MyExit.yy = mouse_y-MyResize.MyExit.y;$(13_10)MyResize.MyMinimize.xx = mouse_x-MyResize.MyMinimize.x;$(13_10)MyResize.MyMinimize.yy = mouse_y-MyResize.MyMinimize.y;"
 grabbed = true;
 MyResize.moving=true;
 xx = mouse_x-x;

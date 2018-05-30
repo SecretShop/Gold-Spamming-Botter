@@ -1,33 +1,33 @@
 {
-    "id": "2860f4f2-4db4-4d58-b79f-c053b8ad5827",
+    "id": "055f84dc-d5db-45e4-980e-11b308b1ec74",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "obj_taskbar_tab",
     "eventList": [
         {
-            "id": "aafaf124-e3e6-44e0-8ff1-9cabad825c72",
+            "id": "b4ea4631-282e-4071-a0d8-28fb8ac02801",
             "modelName": "GMEvent",
             "mvc": "1.0",
-            "IsDnD": true,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 7,
-            "eventtype": 6,
-            "m_owner": "2860f4f2-4db4-4d58-b79f-c053b8ad5827"
-        },
-        {
-            "id": "df7dd851-fb38-4506-a555-a2b50ff5ea2e",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": true,
+            "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "2860f4f2-4db4-4d58-b79f-c053b8ad5827"
+            "m_owner": "055f84dc-d5db-45e4-980e-11b308b1ec74"
+        },
+        {
+            "id": "fa348bdf-73d8-4a36-a615-cff72a922d57",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 7,
+            "eventtype": 6,
+            "m_owner": "055f84dc-d5db-45e4-980e-11b308b1ec74"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "b8085d8d-878b-4a6e-80d7-fbc78ba29ce6",
+    "parentObjectId": "61e38947-d4c6-4e3b-ba2a-1f5a29bbd62d",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -43,7 +43,7 @@
     "physicsStartAwake": true,
     "properties": [
         {
-            "id": "f52517ba-03ce-46bc-9ced-47f44f0a438a",
+            "id": "f6c8c2c8-fa0b-4276-9331-b1b5b3295710",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -57,7 +57,7 @@
             "varType": 0
         },
         {
-            "id": "9f410960-9498-409c-929d-07206cc0599b",
+            "id": "2133fea2-9f5d-4762-94c9-a7b1072c73a2",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -72,6 +72,6 @@
         }
     ],
     "solid": false,
-    "spriteId": "a29bc351-327b-4594-9325-8ba2aee44a06",
+    "spriteId": "92a80642-ddfb-44dc-81c9-f8b4793d5b59",
     "visible": true
 }
